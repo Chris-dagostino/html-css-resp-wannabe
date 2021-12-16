@@ -1,9 +1,10 @@
-@media (max-widht: 420px) {
+@media (max-width: 420px) {
   #lezioni .row>.left, #lezioni .row>.right {
     float: none;
     background-color: #f2f2cd;
 
   }
+ 
 }  
 
 
